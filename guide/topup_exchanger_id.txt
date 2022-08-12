@@ -1,0 +1,49 @@
+r"""
+<html>
+<body>
+<article id="page-14050" class="post-14050 page type-page status-publish">
+    <header class="page-header">
+        <h1 class="entry-title page-title">Cara Top Up melalui Exchanger</h1>
+    </header>
+    <div class="entry-content clearfix">
+        <p>Berikut cara Top Up ke akun FasaPay.com melalui ecurrencyX:</p>
+        <ol>
+            <li>Buka https://www.ecurrencyx.net/ dan daftar atau masuk ke area anggota
+                <div style="height: 100px;"></div>
+                <img src="https://fasapay.info/wp-content/uploads/2020/10/Login-part-1.png">
+                <div style="height: 100px;"></div>
+                <img src="https://fasapay.info/wp-content/uploads/2020/10/login-part-2.png">
+                <div style="height: 100px;"></div>
+                </li>
+            <li>Pilih menu ‘Exchange’ 
+                <div style="height: 100px;"></div>
+                <img src="https://fasapay.info/wp-content/uploads/2020/10/TOPUP-PART-1.png">
+                <div style="height: 100px;"></div>
+            </li>
+            <li>Isi data pertukaran<ul>
+                    <li>Dari mata uang: pilih USDT, BTC, PMUSD</li>
+                    <li>Untuk mata uang: Fasapay USD</li>
+                    <li>Klik “Tukar” dan kemudian Anda akan melihat Detail transaksi
+                        <div style="height: 100px;"></div>
+                        <img src="https://fasapay.info/wp-content/uploads/2020/10/TOPUP-PART-1.png">
+                        <div style="height: 100px;"></div>
+                    </li>
+                </ul>
+            </li>
+            <li>Klik “Bayar sekarang / salin alamat” dan kemudian Anda akan mentransfer dana ke ecurrencyx.net
+                <div style="height: 100px;"></div>
+                <img src="https://fasapay.info/wp-content/uploads/2020/10/TOPUP-PART-2.png">
+                <div style="height: 100px;"></div>
+            </li>
+            <li>Ikuti langkah selanjutnya berdasarkan sistem pemrosesan</li>
+        </ol>
+        <figure class="wp-block-image size-large">
+            <a href="https://www.ecurrencyx.net/">
+                <img src="https://fasapay.info/wp-content/uploads/2020/09/logo.png">
+            </a>
+        </figure>
+    </div>
+</article>
+</body>
+</html>
+"""
