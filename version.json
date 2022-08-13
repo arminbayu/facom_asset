@@ -1,1 +1,6 @@
-1.0.1
+{
+	name:"Facom Flutter",
+	version:1.0.0,
+	update:"tambah asset",
+	isUpdate:true,
+}
