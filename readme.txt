@@ -1,1 +1,2 @@
-Kalo mau update app ubah versi dengan mnambah angka paling belakang
+Kalo mau update assert app pastikan nama dan tipe file harus sama,
+ubah versi dengan menambah angka paling belakang
