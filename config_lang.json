@@ -1,0 +1,41 @@
+{
+    "code" : [
+        "en_US",
+        "id_ID",
+        "ms_MS",
+        "ko_KO",
+        "ru_RU"
+    ],
+    "list_lang" : [
+        {
+          "icon": "https://github.com/arminbayu/facom_asset/raw/main/flag/gb.png",
+          "value": "en_US",
+          "text": "english",
+          "sub_text": "ENG"
+        },
+        {
+          "icon": "https://github.com/arminbayu/facom_asset/raw/main/flag/id.png",
+          "value": "id_ID",
+          "text": "indonesia",
+          "sub_text": "IDN"
+        },
+        {
+          "icon": "https://github.com/arminbayu/facom_asset/raw/main/flag/my.png",
+          "value": "ms_MS",
+          "text": "malaysia",
+          "sub_text": "MAS"
+        },
+        {
+          "icon": "https://github.com/arminbayu/facom_asset/raw/main/flag/ko.png",
+          "value": "ko_KO",
+          "text": "korea",
+          "sub_text": "KOR"
+        },
+        {
+          "icon": "https://github.com/arminbayu/facom_asset/raw/main/flag/ru.png",
+          "value": "ru_RU",
+          "text": "rusia",
+          "sub_text": "RUS"
+        }
+    ]
+}
