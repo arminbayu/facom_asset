@@ -1,12 +1,5 @@
 {
-    "version" : "1.0.1",
-    "code" : [
-        "en_US",
-        "id_ID",
-        "ms_MS",
-        "ko_KO",
-        "ru_RU"
-    ],
+    "version" : "1.0.0",
     "list_lang" : [
         {
           "icon": "gb.png",
@@ -31,12 +24,6 @@
           "value": "ko_KO",
           "text": "korea",
           "sub_text": "KOR"
-        },
-        {
-          "icon": "ru.png",
-          "value": "ru_RU",
-          "text": "rusia",
-          "sub_text": "RUS"
         }
     ]
 }
