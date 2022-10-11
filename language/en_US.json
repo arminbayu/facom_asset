@@ -244,5 +244,9 @@
     "done": "Done",
     "livechat": "Livechat",
     "view_transaction_details": "View Transaction Details",
-    "select_language": "Select a Language"
+    "select_language": "Select a Language",
+    
+    "info_transfer_topup":"It is recommended to use the following facilities when transferring :",
+    "info_value_today":"Value for Today : funds can arrive on the same day at the beneficiary bank.",
+    "info_full_amount":"Full amount: funds can be received in full without deductions."
 }

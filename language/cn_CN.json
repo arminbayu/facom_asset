@@ -247,5 +247,9 @@
     "done":"完成",
     "livechat": "实时聊天",
     "view_transaction_details": "查看交易详情",
-    "select_language": "选择一种语言"
+    "select_language": "选择一种语言",
+    
+    "info_transfer_topup":"转账时推荐使用以下设施：",
+    "info_value_today":"今日价值：资金可以当天到达收款银行。",
+    "info_full_amount":"全额：资金可以全额到账，不扣费。"
 }

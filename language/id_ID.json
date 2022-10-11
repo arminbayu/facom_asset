@@ -243,5 +243,9 @@
     "selesai": "Selesai",
     "livechat": "Livechat",
     "view_transaction_details": "Lihat Detail Transaksi",
-    "select_language": "Pilih Bahasa"
+    "select_language": "Pilih Bahasa",
+
+    "info_transfer_topup":"Disarankan untuk menggunkan fasilitas dibawah ini saat transfer :",
+    "info_value_today":"Value for Today : dana dapat sampai di hari yang sama pada bank penerima.",
+    "info_full_amount":"Full amount: dana dapat diterima secara utuh tanpa potongan."
 }

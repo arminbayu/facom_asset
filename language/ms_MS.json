@@ -245,5 +245,9 @@
     "done": "Selesai",
     "livechat": "Livechat",
     "view_transaction_details": "Lihat Butiran Transaksi",
-    "select_language": "Pilih Bahasa"
+    "select_language": "Pilih Bahasa",
+    
+    "info_transfer_topup":"Adalah disyorkan untuk menggunakan kemudahan berikut semasa pemindahan :",
+    "info_value_today":"Nilai untuk Hari Ini : dana boleh tiba pada hari yang sama di bank benefisiari.",
+    "info_full_amount":"Jumlah penuh: dana boleh diterima sepenuhnya tanpa potongan."
 }

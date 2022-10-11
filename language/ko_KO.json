@@ -238,5 +238,9 @@
     "done": "완료",
     "livechat": "라이브챗",
     "view_transaction_details": "거래 세부정보 보기",
-    "select_language": "언어 선택"
+    "select_language": "언어 선택",
+    
+    "info_transfer_topup":"이체 시 다음 기능을 사용하는 것이 좋습니다.",
+    "info_value_today":"오늘의 가치: 자금은 당일 수취인 은행에 도착할 수 있습니다.",
+    "info_full_amount":"전체 금액: 공제 없이 전액을 수령할 수 있습니다."
 }
