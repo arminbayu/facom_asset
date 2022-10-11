@@ -1,5 +1,5 @@
 {
-    "version" : "1.0.2",
+    "version" : "1.0.1",
     "list_lang" : [
         {
           "icon": "gb.png",
@@ -30,12 +30,6 @@
           "value": "ru_RU",
           "text": "rusia",
           "sub_text": "RUS"
-        },
-        {
-          "icon": "cn.png",
-          "value": "cn_CN",
-          "text": "china",
-          "sub_text": "CNY"
         }
     ]
 }
