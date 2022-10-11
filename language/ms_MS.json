@@ -1,4 +1,11 @@
 {
+    "english": "Bahasa Inggeris",
+    "indonesia": "Indonesia",
+    "malaysia": "Malaysia",
+    "korea": "Korea",
+    "rusia": "Rusia",
+    "china": "China",
+
     "getting": "Mula",
     "please_enter_pin": "Sila masukkan pin",
     "instruction": "Ketik untuk melihat arahan",
@@ -188,11 +195,6 @@
     "OCBC_singapore": "OCBC Singapore",
     "westpac_banking_corporation": "WestPac Banking Corporation",
     "paid_before": "Dibayar sebelum %s",
-    "english": "Bahasa Inggeris",
-    "indonesia": "Indonesia",
-    "malaysia": "Malaysia",
-    "korea": "Korea",
-    "rusia": "Rusia",
     "security_center": "Security Center",
     "security_settings": "Security Settings",
     "set_and_change_password": "Tetapkan dan tukar kata laluan",

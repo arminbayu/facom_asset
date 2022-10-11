@@ -1,4 +1,11 @@
 {
+    "english": "영어",
+    "indonesia": "인도네시아",
+    "malaysia": "말레이시아",
+    "korea": "한국",
+    "rusia": "러시아",
+    "china": "중국",
+
     "getting": "시작",
     "please_enter_pin": "핀을 입력하세요",
     "instruction": "지시를 보려면 탭하세요.",
@@ -184,11 +191,6 @@
     "OCBC_singapore": "OCBC 싱가포르",
     "westpac_banking_corporation": "웨스트팩 뱅킹 코퍼레이션",
     "paid_before": "%s 이전에 지불됨",
-    "english": "영어",
-    "indonesia": "인도네시아",
-    "malaysia": "말레이시아",
-    "korea": "한국",
-    "rusia": "러시아",
     "security_center": "보안 센터",
     "security_settings": "보안 설정",
     "set_and_change_password": "비밀번호 설정 및 변경",

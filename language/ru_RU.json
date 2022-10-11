@@ -1,4 +1,11 @@
 {
+    "english": "английский",
+    "indonesia": "Индонезия",
+    "malaysia": "Малайзия",
+    "korea": "Корея",
+    "rusia": "Россия",
+    "china": "Китай",
+
     "getting": "Начать",
     "please_enter_pin": "Пожалуйста, введите пин-код",
     "instruction": "Нажмите, чтобы увидеть инструкцию",
@@ -189,11 +196,6 @@
     "OCBC_singapore": "OCBC Сингапур",
     "westpac_banking_corporation": "Банковская корпорация WestPac",
     "paid_before": "Оплачено до %s",
-    "english": "английский",
-    "indonesia": "Индонезия",
-    "malaysia": "Малайзия",
-    "korea": "Корея",
-    "rusia": "Россия",
     "security_center": "Центр безопасности",
     "security_settings": "Настройки безопасности",
     "set_and_change_password": "Установить и изменить пароль",

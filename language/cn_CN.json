@@ -1,4 +1,11 @@
 {  
+    "english": "英语",
+    "indonesia": "印度尼西亚",
+    "malaysia": "马来西亚",
+    "korea": "韩国",
+    "rusia":"俄罗斯",
+    "china": "中国",
+
     "getting": "开始",
     "please_enter_pin": "请输入密码",
     "instruction": "点击查看指令",
@@ -189,11 +196,7 @@
     "OCBC_singapore": "新加坡华侨银行",
     "westpac_banking_corporation": "西太平洋银行",
     "paid_before": "在 %s 之前支付",
-    "english": "英语",
-    "indonesia": "印度尼西亚",
-    "malaysia": "马来西亚",
-    "korea": "韩国",
-    "rusia":"俄罗斯",
+
     "security_center": "安全中心",
     "security_settings": "安全设置",
     "set_and_change_password": "设置和更改密码",
