@@ -1,5 +1,5 @@
 {
-    "version" : "1.0.2",
+    "version" : "1.0.3",
     "list_lang" : [
         {
           "icon": "gb.png",
@@ -12,30 +12,6 @@
           "value": "id_ID",
           "text": "indonesia",
           "sub_text": "IDN"
-        },
-        {
-          "icon": "my.png",
-          "value": "ms_MS",
-          "text": "malaysia",
-          "sub_text": "MAS"
-        },
-        {
-          "icon": "ko.png",
-          "value": "ko_KO",
-          "text": "korea",
-          "sub_text": "KOR"
-        },
-        {
-          "icon": "ru.png",
-          "value": "ru_RU",
-          "text": "rusia",
-          "sub_text": "RUS"
-        },
-        {
-          "icon": "cn.png",
-          "value": "cn_CN",
-          "text": "china",
-          "sub_text": "CNY"
         }
     ]
 }
