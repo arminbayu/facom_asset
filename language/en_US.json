@@ -5,6 +5,7 @@
     "tr_korea": "Korea",
     "tr_rusia": "Rusia",
     "tr_china": "China",
+    "tr_japan": "Japan",
 
     "tr_getting": "Start",
     "tr_please_enter_pin": "Please enter pin",
@@ -124,6 +125,7 @@
     "tr_thank_you": "Thank You",
     "tr_password": "Password",
     "tr_confirm_password": "Confirm Password",
+
     "tr_security_question": "Security Question",
     "tr_security_answer": "Security Answer",
     "tr_country": "Country",

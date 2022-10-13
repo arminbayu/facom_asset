@@ -1,5 +1,5 @@
 {
-    "version" : "1.0.5",
+    "version" : "1.0.6",
     "list_lang" : [
         {
           "icon": "gb.png",
@@ -36,6 +36,13 @@
           "value": "cn_CN",
           "text": "tr_china",
           "sub_text": "CNY"
+        },
+        {
+          "icon": "jp.png",
+          "value": "jp_JP",
+          "text": "tr_japan",
+          "sub_text": "JPN"
         }
-    ]
+    ],
+    "deskripsi" : "Menambah bahasa jepang KANJI"
 }
