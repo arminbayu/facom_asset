@@ -1,5 +1,5 @@
 {
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "list_lang" : [
         {
           "icon": "gb.png",
@@ -14,11 +14,35 @@
           "sub_text": "IDN"
         },
         {
+          "icon": "my.png",
+          "value": "ms_MS",
+          "text": "tr_malaysia",
+          "sub_text": "MAS"
+        },
+        {
+          "icon": "ko.png",
+          "value": "ko_KO",
+          "text": "tr_korea",
+          "sub_text": "KOR"
+        },
+        {
+          "icon": "ru.png",
+          "value": "ru_RU",
+          "text": "tr_rusia",
+          "sub_text": "RUS"
+        },
+        {
+          "icon": "cn.png",
+          "value": "cn_CN",
+          "text": "tr_china",
+          "sub_text": "CNY"
+        },
+        {
           "icon": "jp.png",
           "value": "jp_JP",
           "text": "tr_japan",
           "sub_text": "JPN"
         }
     ],
-    "deskripsi" : "Testing update list bahasa, update vesion to 1.0.0"
+    "deskripsi" : "Default asset aplikasi menjadi 7 bahasa, update version 1.0.0 to 1.0.1"
 }
