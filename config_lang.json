@@ -12,6 +12,12 @@
           "value": "id_ID",
           "text": "tr_indonesia",
           "sub_text": "IDN"
+        },
+        {
+          "icon": "jp.png",
+          "value": "jp_JP",
+          "text": "tr_japan",
+          "sub_text": "JPN"
         }
     ],
     "deskripsi" : "Testing update list bahasa, update vesion to 1.0.0"
