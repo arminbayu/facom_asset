@@ -12,37 +12,7 @@
           "value": "id_ID",
           "text": "tr_indonesia",
           "sub_text": "IDN"
-        },
-        {
-          "icon": "my.png",
-          "value": "ms_MS",
-          "text": "tr_malaysia",
-          "sub_text": "MAS"
-        },
-        {
-          "icon": "ko.png",
-          "value": "ko_KO",
-          "text": "tr_korea",
-          "sub_text": "KOR"
-        },
-        {
-          "icon": "ru.png",
-          "value": "ru_RU",
-          "text": "tr_rusia",
-          "sub_text": "RUS"
-        },
-        {
-          "icon": "cn.png",
-          "value": "cn_CN",
-          "text": "tr_china",
-          "sub_text": "CNY"
-        },
-        {
-          "icon": "jp.png",
-          "value": "jp_JP",
-          "text": "tr_japan",
-          "sub_text": "JPN"
         }
     ],
-    "deskripsi" : "Menambah bahasa jepang KANJI"
+    "deskripsi" : "Testing update list bahasa"
 }
