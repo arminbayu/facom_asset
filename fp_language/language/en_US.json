@@ -93,7 +93,7 @@
     "tr_welcome": "Welcome",
     "tr_message_qr": "The QR Code that you scan is not from Fasapay.",
     "tr_message_info_status_register":
-        "Please Upload your Identity to access this facility.",
+        "Your account status cannot access this fitur, for unlock this fitur you must be Upload Identity Card/ Passport.",
     "tr_type": "Type",
     "tr_transfer_in": "Transfer In",
     "tr_transfer_out": "Transfer Out",

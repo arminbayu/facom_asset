@@ -95,7 +95,7 @@
     "tr_welcome": "欢迎",
     "tr_message_qr": "您扫描的二维码不是来自 Fasapay。",
     "tr_message_info_status_register":
-        "请上传您的身份以访问此设施。",
+        "您的帐户状态无法访问此 fitur，要解锁此 fitur，您必须上传身份证/护照。",
     "tr_type": "类型",
     "tr_transfer_in": "转入",
     "tr_transfer_out": "转出",

@@ -93,7 +93,7 @@
     "tr_welcome": "Selamat Datang",
     "tr_message_qr": "QR Code yang anda scan bukan dari fasapay.",
     "tr_message_info_status_register":
-        "Silakan Unggah Identitas Anda untuk mengakses fasilitas ini.",
+        "Status akun Anda tidak dapat mengakses fitur ini, untuk membuka fitur ini Anda harus Upload Kartu Identitas/Paspor.",
     "tr_type": "Tipe",
     "tr_transfer_in": "Dana Masuk",
     "tr_transfer_out": "Dana Keluar",

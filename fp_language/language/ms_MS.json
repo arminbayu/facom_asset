@@ -93,7 +93,7 @@
     "tr_welcome": "Selamat Datang",
     "tr_message_qr": "Kod QR yang anda imbas bukan daripada Fasapay.",
     "tr_message_info_status_register":
-        "Sila Muat Naik Identiti anda untuk mengakses kemudahan ini.",
+        "Status akaun anda tidak boleh mengakses ciri ini, untuk membuka kunci ciri ini anda mesti Muat Naik Kad Pengenalan/Pasport.",
     "tr_type": "Jenis",
     "tr_transfer_in": "Pindahkan Masuk",
     "tr_transfer_out": "Transfer Keluar",

@@ -90,7 +90,7 @@
     "tr_transaction_pin": "트랜잭션 핀",
     "tr_welcome": "환영합니다",
     "tr_message_qr": "스캔한 QR 코드는 Fasapay에서 가져온 것이 아닙니다.",
-    "tr_message_info_status_register": "이 시설에 액세스하려면 ID를 업로드하십시오.",
+    "tr_message_info_status_register": "귀하의 계정 상태에서는 이 장비에 액세스할 수 없습니다. 이 장비를 잠금 해제하려면 신분증/여권을 업로드해야 합니다.",
     "tr_type": "유형",
     "tr_transfer_in": "전송",
     "tr_transfer_out": "전송 아웃",
