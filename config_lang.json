@@ -1,5 +1,5 @@
 {
-    "version" : "1.0.1",
+    "version" : "1.0.21",
     "list_lang" : [
         {
           "icon": "gb.png",
@@ -44,5 +44,5 @@
           "sub_text": "JPN"
         }
     ],
-    "deskripsi" : "Default asset aplikasi menjadi 7 bahasa, update version 1.0.0 to 1.0.1"
+    "deskripsi" : "Memperbaiki informasi language id_ID line 62"
 }
